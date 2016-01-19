@@ -5,6 +5,7 @@ import javax.swing.*;
 
 public class Downloader extends JPanel{
 
+// this is a test for commit 3
 	private URL downloadURL;
 	private InputStream inputStream;
 	private OutputStream outputStream;
